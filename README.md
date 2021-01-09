@@ -1,1 +1,2 @@
-# projectc21
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
